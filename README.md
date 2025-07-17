@@ -65,11 +65,3 @@ This project transforms Coffee Cup's raw retail sales and operational data (4,24
 4. Incorporate customer feedback and foot traffic metrics for deeper analysis.
 
 ---
-
-## 📷 Screenshots
-
-> _Add screenshots of your Power BI dashboard pages below using the markdown format:_
-
-```markdown
-![Dashboard Overview](screenshots/dashboard-overview.png)
-![Sales by Region](screenshots/sales-by-region.png)
